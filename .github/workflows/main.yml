@@ -1,0 +1,37 @@
+name: Update XML Feed
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+# Added the environment variable here to silence the Node 20 deprecation warning
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      # Updated to v5 (or latest available)
+      - name: Checkout repository
+        uses: actions/checkout@v5
+
+      # Updated to v6 (or latest available)
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.x'
+
+      - name: Run transformation script
+        run: python convert.py
+
+      - name: Commit and Push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add selltoro_feed.xml
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Automated update of Selltoro feed" && git push)
