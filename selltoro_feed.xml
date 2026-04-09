@@ -2194,7 +2194,7 @@ Mångsidig användning: Denna skärbräda passar perfekt för att skära grönsa
       <g:gtin>2000000886220</g:gtin>
       <g:shipping_weight>100 g</g:shipping_weight>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
     </item>
     <item>
       <g:id>90208</g:id>
@@ -4322,7 +4322,7 @@ Längd: 15 cm</g:description>
       <g:gtin>9507462935471</g:gtin>
       <g:shipping_weight>150 g</g:shipping_weight>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
     </item>
     <item>
       <g:id>78703</g:id>
