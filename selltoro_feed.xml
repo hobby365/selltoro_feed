@@ -1714,7 +1714,7 @@ Storlekar: 2.0 mm / 2.25 mm / 2.5 mm / 2.75 mm / 3.0 mm / 3.25 mm / 3.5 mm / 3.7
       <g:gtin>9503672936895</g:gtin>
       <g:shipping_weight>150 g</g:shipping_weight>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
     </item>
     <item>
       <g:id>78711</g:id>
@@ -4174,7 +4174,7 @@ Längd: 15 cm</g:description>
       <g:gtin>2000000653228</g:gtin>
       <g:shipping_weight>150 g</g:shipping_weight>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
     </item>
     <item>
       <g:id>65330</g:id>
