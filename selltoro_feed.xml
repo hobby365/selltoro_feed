@@ -461,7 +461,7 @@ Stickor: #3</g:description>
       <g:gtin>9502357548255</g:gtin>
       <g:shipping_weight>200 g</g:shipping_weight>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
     </item>
     <item>
       <g:id>20200169</g:id>
@@ -608,7 +608,7 @@ Stickor: #3</g:description>
       <g:gtin>9506947131926</g:gtin>
       <g:shipping_weight>200 g</g:shipping_weight>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
     </item>
     <item>
       <g:id>20200119</g:id>
@@ -629,7 +629,7 @@ Stickor: #3</g:description>
       <g:gtin>9505351476456</g:gtin>
       <g:shipping_weight>200 g</g:shipping_weight>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
     </item>
     <item>
       <g:id>20200171</g:id>
@@ -4026,7 +4026,7 @@ Längd: 15 cm.</g:description>
       <g:gtin>2000000651620</g:gtin>
       <g:shipping_weight>150 g</g:shipping_weight>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
     </item>
     <item>
       <g:id>65166</g:id>
