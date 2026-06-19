@@ -2740,7 +2740,7 @@ OBS! Den faktiska färgen på produkten kan skilja mot vad som visas på bilden,
       <g:gtin>2000000648712</g:gtin>
       <g:shipping_weight>150 g</g:shipping_weight>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
     </item>
     <item>
       <g:id>64952</g:id>
