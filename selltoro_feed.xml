@@ -3444,7 +3444,7 @@ Vår fina mattvarp är tillverkad av svart 100% ekologisk bomull och är verklig
       <g:gtin>9501414684271</g:gtin>
       <g:shipping_weight>500 g</g:shipping_weight>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
     </item>
     <item>
       <g:id>54</g:id>
@@ -3459,7 +3459,7 @@ Vår fina mattvarp är tillverkad av 100% bomull och är verkligen en billig mat
       <g:sale_price>159.00 SEK</g:sale_price>
       <g:shipping_weight>500 g</g:shipping_weight>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
     </item>
     <item>
       <g:id>20260727</g:id>
